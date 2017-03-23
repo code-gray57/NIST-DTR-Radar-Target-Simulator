@@ -138,6 +138,6 @@ Numpy - Copyright © 2005, NumPy Developers. All rights reserved.
 
 Sounddevice - Copyright © 2015-2017 Matthias Geier
 
-- See LICENSE.txt for the terms of use for the application
-- See PKG-LICENSE.txt for the complete license notice for the packages
+- See [LICENSE.txt](NIST-DTR-Radar-Target-Simulator/LICENSE.txt) for the terms of use for the application
+- See [PKG-LICENSE.txt](NIST-DTR-Radar-Target-Simulator/PKG-LICENSE.txt) for the complete license notice for the packages
 
