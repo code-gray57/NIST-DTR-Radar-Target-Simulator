@@ -83,7 +83,7 @@ __Advanced Simulation:__
 
 Entries:
 
-* Duration
+* Duration  
 	Input how long the entire simulation should last for (in seconds)
 * Speed  
 	Input the speed for each vehicle (in either miles per hour or kilometers per hour) – one vehicle for each entry
