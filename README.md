@@ -15,7 +15,8 @@ There are two simulation types that are available in the application: _Simple_, 
 
 ##### NOTE:
 While this application is stand-alone in terms of execution and creates sine waves for simulating vehicles, the created sine waves cannot be used as simulations unless specific hardware is used in conjuction with this application. 
-
+ 
+The associated hardware consists of two antennas and an I/Q mixer that all operate over the frequency band of interest (i.e. X-band, K-band, or Ka-band). One antenna is connected to the LO port of the mixer, and the other antenna is connected to the RF port. The antennas should be positioned so that they both are in the beam of the radar antenna. The audio outputs from the computer sound card are connected to the I and Q ports on the mixer. Connect the left channel audio to the I port and the right channel audio to the Q port.
 
 Installation
 ---
