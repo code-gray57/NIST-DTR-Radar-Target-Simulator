@@ -71,7 +71,7 @@ Radio Buttons:
 
 Buttons:
 
-* Switch – Switch to Advanced Sim  
+* Switch – _Switch to Advanced Sim_  
 	Switches to the advanced simulation
 * Run  
 	Runs the simulation using the inputted data.
@@ -105,15 +105,15 @@ Radio Buttons:
 
 Buttons:
 
-* Switch – Switch to Simple Sim  
+* Switch – _Switch to Simple Sim_  
 	Switches to the simple simulation
 * Run  
 	Runs the simulation using the inputted data.
 
 Authors
 ---
-- Source Code by Robert L. Gray III
-- original MATLAB source code and calculations by John Jendzurski
+- Source code by Robert L. Gray III
+- Original MATLAB source code and calculations by John Jendzurski
 
 Packages
 ---
